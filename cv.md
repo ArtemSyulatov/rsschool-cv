@@ -17,7 +17,8 @@ I want to learn Front-End Development in **RSSchool!**
 * Git
 ## Code Example
 ***
-``` 
+
+```javascript 
 function sum(a, b) {
   return a + b;
 }
