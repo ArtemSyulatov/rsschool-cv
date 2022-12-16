@@ -7,7 +7,7 @@
 ---
 
 - **Location:** Russia,Ekaterinburg
-- **Phone:** +7996-173-95-62
+- **Phone:** +7996-173-95-61
 - **Email:** syulatov_artem@mail.ru
 - **GitHub:** [ArtemSyulatov](https://github.com/ArtemSyulatov)
 
